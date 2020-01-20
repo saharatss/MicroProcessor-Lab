@@ -8,7 +8,8 @@ There are topics of my works
 
 ### Read/Write digital pin with Register 
 > **X** is port name e.g A,B,C,D
-- **DDRX** - for set pinMode
+- **DDRX**
+... for set pinMode
 - **PORTX** - for set digitalWrite
 - **PINX** - for set digitalWrite
 
