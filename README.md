@@ -4,11 +4,12 @@ This repository is a part of subject **MicroProcessor-Lab** (2nd-Year 2nd-Semest
 
 ## Content
 
-topics of my work
+There are topics of my works
 
-1. Read/Write digital pin with Register ,*X* is port name e.g A,B,C,D
-   - **DDRX** - for set pinMode
-   - **PORTX** - for set digitalWrite
-   - **PINX** - for set digitalWrite
+### Read/Write digital pin with Register 
+*X* is port name e.g A,B,C,D
+- **DDRX** - for set pinMode
+- **PORTX** - for set digitalWrite
+- **PINX** - for set digitalWrite
 
 *Saharat Saengsawang 61011090*
