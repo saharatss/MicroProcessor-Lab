@@ -14,21 +14,21 @@ There are topics of my works
 
   ```c++
   // set pin4 of PortD as Input
-  DDRD  = 0x00010000;
+  DDRD  = 0b00010000;
   ```
 
 - **PORTX** = digitalWrite
 
   ```c++
   // set status of pin4 of PortD as ON
-  PORTD  = 0x00010000;
+  PORTD  = 0b00010000;
   ```
   
 - **PINX** = digitalRead
 
   ```c++
   // check status of pin0 of PortB
-  if(PINB & 0x01){
+  if(PINB & 0b00000001){
   }
   ```
 
