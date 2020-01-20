@@ -9,7 +9,7 @@ This repository is a part of subject **MicroProcessor-Lab** (2nd-Year 2nd-Semest
 There are topics of my works
 
 ### Read/Write digital pin with Register 
-* **X** is port name e.g A,B,C,D*
+**X** is port name e.g A,B,C,D
 - **DDRX** = pinMode
 
   ```c++
