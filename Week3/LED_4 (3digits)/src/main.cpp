@@ -43,7 +43,7 @@ void setDigit(int number){
 }
 
 void updateDigit(){
-	int _delay = 1;
+	int _delay = 5;
 	int digit1 = current_number%10;
 	int digit2 = (current_number/10)%10;
 	int digit3 = (current_number/100)%10;
@@ -85,7 +85,7 @@ void setup() {
 void loop() {
 
 	if(millis() - time_start >= 100){
-		current_number++;
+		current_number--;
 		time_start = millis();
 	}
 
