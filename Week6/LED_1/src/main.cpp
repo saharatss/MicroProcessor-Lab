@@ -64,6 +64,7 @@ uint32_t previous_TotalSeconds;
 
 void loop(){
 	RtcDateTime now = Rtc.GetDateTime();
+	// printDateTime(now);
 
 	if(!now.IsValid()) Serial.println("RTC lost confidence in the DateTime!");
 	if(previous_TotalSeconds != now.TotalSeconds()){
