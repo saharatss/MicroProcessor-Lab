@@ -1,6 +1,6 @@
 # Week8
 
-MicroProcessor-Lab Week 8
+MicroProcessor-Lab Week 8 - Serial Communication (UART)
 
 ## Exercise 1
 
