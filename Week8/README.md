@@ -51,7 +51,7 @@ void loop(){
 ![alt text](https://github.com/earthsaharat/MicroProcessor-Lab/blob/master/Week8/E2.png "Exercise2")
 
 ### Code
-Arduino1
+Arduino1 (Lower)
 ```c++
 #include <Arduino.h>
 #include <SoftwareSerial.h>
@@ -69,7 +69,7 @@ void loop(){
 }
 ```
 
-Arduino2
+Arduino2 (Upper)
 ```c++
 #include <Arduino.h>
 #include <SoftwareSerial.h>
