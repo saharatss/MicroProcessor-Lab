@@ -2,7 +2,7 @@
 
 Read/Write digital pin with Register 
 
-![alt text](https://github.com/earthsaharat/MicroProcessor-Lab/blob/master/IMG_1421.JPG "Arduino")
+![alt text](https://github.com/earthsaharat/MicroProcessor-Lab/blob/master/Week1/IMG_1421.JPG "Arduino")
 
 **X** is port name e.g A,B,C,D
 
