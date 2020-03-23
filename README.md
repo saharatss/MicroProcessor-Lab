@@ -48,4 +48,10 @@ UART stands for Universal Asynchronous Receiver/Transmitter. It’s not a commun
 
 [go to Week8](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week8)
 
+### Week 9 - Interrupt
+
+An Interrupt's job is to make sure that the processor responds quickly to important events. When a certain signal is detected, an Interrupt (as the name suggests) interrupts whatever the processor is doing, and executes some code designed to react to whatever external stimulus is being fed to the Arduino.
+
+[go to Week9](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week9)
+
 *Saharat Saengsawang 61011090*
