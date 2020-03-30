@@ -25,13 +25,13 @@ bool EN_Bp = false; // Previous state
 
 int counter = 0;
 
-void EN_Handle(bool isCW){ // clockwise 
+void EN_Handle(bool isCW){ // Counting and printout
     if(isCW) counter++;
     else counter--;
     Serial.println("Counter="+String(counter)+" Direction:"+(isCW?"CW":"CCW"));
 }
 
-void EN_Check(){
+void EN_Check(){ // Call when encoder rotating 
     EN_Ac = !digitalRead(EN_A);
     EN_Bc = !digitalRead(EN_B);
     if(EN_Ac&&EN_Bc){
