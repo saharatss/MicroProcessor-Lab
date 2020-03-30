@@ -54,4 +54,10 @@ An Interrupt's job is to make sure that the processor responds quickly to import
 
 [go to Week9](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week9)
 
+### Week 10 - Encoder and Motor with interrupt
+
+A motor encoder is a rotary encoder mounted to an electric motor that provides closed loop feedback signals by tracking the speed and/or position of a motor shaft.
+
+[go to Week10](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week10)
+
 *Saharat Saengsawang 61011090*
