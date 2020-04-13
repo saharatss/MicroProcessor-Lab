@@ -60,4 +60,12 @@ A motor encoder is a rotary encoder mounted to an electric motor that provides c
 
 [go to Week10](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week10)
 
+### Week 11 - PID Control
+
+A proportional–integral–derivative controller (PID controller or three-term controller) is a control loop mechanism employing feedback that is widely used in industrial control systems and a variety of other applications requiring continuously modulated control.
+
+[go to Week11](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week11)
+
+
+
 *Saharat Saengsawang 61011090*
