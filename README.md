@@ -66,6 +66,11 @@ A proportional–integral–derivative controller (PID controller or three-term 
 
 [go to Week11](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week11)
 
+### Week 12 - Speed Control
+
+Control the speed of motor. Read the speed back using encoder and calculate pluse to RPM.
+
+[go to Week12](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week12)
 
 
 *Saharat Saengsawang 61011090*
