@@ -72,5 +72,12 @@ Control the speed of motor. Read the speed back using encoder and calculate plus
 
 [go to Week12](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week12)
 
+### Week 13 - Create your own assignment (design by yourself)
+
+My project is Speed motor with temperature protection
+
+<img src="https://github.com/earthsaharat/MicroProcessor-Lab/blob/master/Week13/test.gif" width="400"/>
+
+[go to Week13](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week13)
 
 *Saharat Saengsawang 61011090*
