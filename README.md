@@ -80,4 +80,10 @@ My project is Speed motor with temperature protection
 
 [go to Week13](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week13)
 
+### Week 14 - Create your own assignment (design by yourself)
+
+My project is Light bulb show
+
+[go to Week14](https://github.com/earthsaharat/MicroProcessor-Lab/tree/master/Week14)
+
 *Saharat Saengsawang 61011090*
